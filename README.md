@@ -1,8 +1,8 @@
-### Hi I'm Cheung Ray 👋
+## Hi I'm Cheung Ray 👋
 
 I'm passionate about using JavaScript to build creative and practical web applications, and I firmly believe in the power of technology to change the world. In addition to JavaScript, I'm actively learning Rust, a novel and powerful programming language, aiming to explore the boundaries of technology more deeply.
 
-### Tech Stack
+## Tech Stack
 <hr/>
 <div align="left">
   <a href="https://godom.xyz" target="_blank">
